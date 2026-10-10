@@ -1,0 +1,1 @@
+Physical AI refers to artificial intelligence systems that perceive, reason about, and act within the physical world. When applied to Autonomous Mobile Robots (AMRs), Physical AI marks a massive evolution from rigid, pre-programmed automation to true behavioral autonomy.
