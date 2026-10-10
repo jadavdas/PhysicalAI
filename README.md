@@ -9,3 +9,4 @@ Physical AI drives an ongoing Sense → Reason → Act feedback loop directly on
 2. Reason (Cognition): Advanced Vision-Language-Action (VLA) models and world foundation models process this sensory data. The robot predicts how a scene will change if it moves forward, factoring in spatial context and dynamic obstacles.
 
 3. Act (Execution): The AI translates its decisions into precise motor and actuator commands, altering speed, torque, and direction seamlessly to execute its task safely
+
