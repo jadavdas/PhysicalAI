@@ -11,3 +11,4 @@ Physical AI drives an ongoing Sense → Reason → Act feedback loop directly on
 
 3. Act (Execution): The AI translates its decisions into precise motor and actuator commands, altering speed, torque, and direction seamlessly to execute its task safely
 
+https://github.com/user-attachments/assets/43e58cb6-9dd3-4b5e-8bc3-ee4615e7e2ca
