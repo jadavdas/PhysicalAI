@@ -13,3 +13,5 @@ Physical AI drives an ongoing Sense → Reason → Act feedback loop directly on
 
 
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
+
+https://github.com/user-attachments/assets/8fa2a45d-1525-4d73-adc0-c0fcc6766a1e
