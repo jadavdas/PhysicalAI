@@ -16,6 +16,10 @@ Physical AI drives an ongoing Sense → Reason → Act feedback loop directly on
 
 LiDAR (Light Detection and Ranging) is an active remote sensing technology that measures precise distances and generates high-resolution 3D representations of environments using pulsed laser light. By calculating the Time-of-Flight (ToF) for thousands of emitted light pulses to bounce off objects and return to the sensor, the system accurately maps the physical characteristics of a scene.
 
+### CAMERA
+
+Cameras are passive optical sensors that provide mobile robots with rich geometric and photometric information required to perceive, interpret, and navigate their surroundings. Unlike active sensors (such as LiDAR), standard cameras capture ambient light data, translating raw pixel arrays into high-density color intensities and feature orientations that computer vision pipelines use to make autonomous decisions. The front camera acts as the primary visual navigator for the road ahead, while the bottom (underbody) camera functions as a specialized safety and maintenance scanner looking directly at the terrain and chassis beneath the vehicle.
+
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
 
 https://github.com/user-attachments/assets/45223c1f-0c1d-481d-9144-e5f3a63c6d88
