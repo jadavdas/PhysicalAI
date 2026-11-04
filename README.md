@@ -1,3 +1,4 @@
+## Physical AI
 
 Physical AI refers to artificial intelligence systems that perceive, reason about, and act within the physical world. When applied to Autonomous Mobile Robots (AMRs), Physical AI marks a massive evolution from rigid, pre-programmed automation to true behavioral autonomy.
 
@@ -11,7 +12,8 @@ Physical AI drives an ongoing Sense → Reason → Act feedback loop directly on
 
 3. Act (Execution): The AI translates its decisions into precise motor and actuator commands, altering speed, torque, and direction seamlessly to execute its task safely
 
-LIDAR
+### [LIDAR](https://en.wikipedia.org/wiki/Lidar)
+
 LiDAR (Light Detection and Ranging) is an active remote sensing technology that measures precise distances and generates high-resolution 3D representations of environments using pulsed laser light. By calculating the Time-of-Flight (ToF) for thousands of emitted light pulses to bounce off objects and return to the sensor, the system accurately maps the physical characteristics of a scene.
 
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
