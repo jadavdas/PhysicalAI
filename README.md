@@ -15,6 +15,7 @@ Physical AI drives an ongoing Sense → Reason → Act feedback loop directly on
 ### [LIDAR](https://en.wikipedia.org/wiki/Lidar)
 
 LiDAR (Light Detection and Ranging) is an active remote sensing technology that measures precise distances and generates high-resolution 3D representations of environments using pulsed laser light. By calculating the Time-of-Flight (ToF) for thousands of emitted light pulses to bounce off objects and return to the sensor, the system accurately maps the physical characteristics of a scene.
+https://github.com/user-attachments/assets/67c2a4da-fc92-45d2-87f2-f2227d791e76
 
 ### CAMERA
 
