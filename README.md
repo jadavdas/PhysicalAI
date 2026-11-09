@@ -39,6 +39,12 @@ Unlike non-contact perception layers (like LiDAR or ultrasonic sensors), a bumpe
 
 https://github.com/user-attachments/assets/f8c236d0-2e32-44ec-aec7-523a27ef15fd
 
+### FALL PREVENTION SENSOR
+A fall prevention sensor (commonly referred to as a cliff sensor, drop-off sensor, or downward-facing ranging sensor) is a critical perception device used in mobile robots to detect elevation changes, stairs, and drop-offs to prevent the vehicle from falling.
+It acts as a primary safety layer, particularly for indoor robots navigating multi-level facilities, platforms, or residential environments.
+
+https://github.com/user-attachments/assets/38b4738d-78be-48d6-95ad-2e10115fe6a8
+
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
 
 https://github.com/user-attachments/assets/45223c1f-0c1d-481d-9144-e5f3a63c6d88
