@@ -45,6 +45,12 @@ It acts as a primary safety layer, particularly for indoor robots navigating mul
 
 https://github.com/user-attachments/assets/38b4738d-78be-48d6-95ad-2e10115fe6a8
 
+### MAPPING
+Mapping, also known as robotic map generation or map building, is the process by which an autonomous mobile robot uses its onboard perception sensors to construct a consistent, spatially accurate spatial model of an unknown environment while tracking its own position within it (Simultaneous Localization and Mapping, or SLAM).
+
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
+
+### NAVIGATION
+When applied to mobile robot navigation. the A* (A-star) algorithm is widely used to calculate the shortest, most collision-free path from a starting coordinate to a goal location.
 
 https://github.com/user-attachments/assets/45223c1f-0c1d-481d-9144-e5f3a63c6d88
