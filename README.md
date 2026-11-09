@@ -37,6 +37,7 @@ https://github.com/user-attachments/assets/d13b13dc-7cfb-49e7-9832-e2cbd8fa153f
 An AMR bumper sensor (often called a tactile sensor or safety edge) is a physical, contact-based safety device that acts as a last line of defense for collision detection and emergency braking.
 Unlike non-contact perception layers (like LiDAR or ultrasonic sensors), a bumper sensor is a fail-safe mechanism designed to immediately halt the robot if it physically impacts an obstacle.
 
+https://github.com/user-attachments/assets/f8c236d0-2e32-44ec-aec7-523a27ef15fd
 
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
 
