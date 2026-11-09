@@ -30,6 +30,7 @@ https://github.com/user-attachments/assets/3d85a956-3882-47dd-ac61-423a84583f66
 
 An ultrasonic sensor is an active electronic transducer used in Autonomous Mobile Robots (AMRs) for short-range proximity detection and obstacle avoidance.
 
+https://github.com/user-attachments/assets/d13b13dc-7cfb-49e7-9832-e2cbd8fa153f
 
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
 
