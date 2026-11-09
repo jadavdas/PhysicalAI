@@ -26,6 +26,11 @@ Cameras are optical sensors that provide mobile robots with rich geometric and p
 
 https://github.com/user-attachments/assets/3d85a956-3882-47dd-ac61-423a84583f66
 
+### [ULTRASONIC SENSOR](https://en.wikipedia.org/wiki/Ultrasonic_transducer)
+
+An ultrasonic sensor is an active electronic transducer used in Autonomous Mobile Robots (AMRs) for short-range proximity detection and obstacle avoidance.
+
+
 https://github.com/user-attachments/assets/a6d29ccd-ec93-4e24-8dd5-6d631aa9d073
 
 https://github.com/user-attachments/assets/45223c1f-0c1d-481d-9144-e5f3a63c6d88
